@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayandip Saha</h1>
-<h3 align="center">A passionate Data analyst, ML engineer and frontend developer from India</h3>
+<h3 align="center">passionate about Machine Learning, Computer Vision, Deep Learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandipsaha666&label=Profile%20views&color=0e75b6&style=flat" alt="sayandipsaha666" /> </p>
 
